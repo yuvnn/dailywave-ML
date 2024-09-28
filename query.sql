@@ -1,0 +1,6 @@
+CREATE TABLE employees (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    title VARCHAR(100) NOT NULL,
+    artist VARCHAR(100) NOT NULL,
+    salary VARCHAR(5000) NOT NULL,
+);
