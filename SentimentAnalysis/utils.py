@@ -31,7 +31,7 @@ def make_current_datetime_dir(path):
 
 def preprocess_data(examples, tokenizer, labels):
     # take a batch of texts
-    sentences = [clean(sentence) for sentence in examples['document']]  # KcELECTRA 사전 학습시 사용한 정제 적용
+    sentences = [clean(sentence) for sentence in examples['sentence']]  # KcELECTRA 사전 학습시 사용한 정제 적용
     
     # encode them
     # encoding = tokenizer(sentences, padding='max_length', truncation=True, max_length=80)
