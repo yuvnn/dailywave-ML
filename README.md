@@ -23,7 +23,7 @@
 
 ### 1. 라벨링
 
-> **라벨링 변경 위치 :** ./SentimentAnalysis/constants
+> **라벨링 변경 위치 :** ./SentimentAnalysis/constants.py
 > 
 - **EDC :** 0:기쁨, 1:당황, 2:분노, 3:불안, 4:상처, 5:슬픔
 - **6label-1 (폴에크만) :** 0:분노, 1:역겨움, 2:공포, 3:행복, 4:슬픔, 5:놀람
@@ -35,7 +35,7 @@
 
 ### 2. 사용된 감정 데이터 파일명
 
-> **위치 :** ./SentimentAnalysis/data/preprocess
+> **감정 dataset 위치 :** ./SentimentAnalysis/data/preprocess
 > 
 - **EDC** (EmotionalDialogCorpus)
 [(감성대화말뭉치)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=&topMenu=&aihubDataSe=data&dataSetSn=86)
