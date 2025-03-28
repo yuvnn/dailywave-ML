@@ -43,7 +43,7 @@
 - **DVforEC** (Dialogue voice dataset for emotion classification)
 [(감정분류를 위한 대화 음성 데이터셋)](https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=263)
     - **DVforEC(5) :** Dialogue voice dataset for emotion classification (5차년도, 6label-1)
-    - **DVforEC(a_6l) :** Dialogue voice dataset for emotion classification (4차년도, 6label-1)
+    - **DVforEC(a_6l) :** Dialogue voice dataset for emotion classification (4차년도+5차년도, 6label-1)
     - **DVforEC(4_6l) :** Dialogue voice dataset for emotion classification (4차년도, 6label-1)
     - **DVforEC(4_8l) :** Dialogue voice dataset for emotion classification (4차년도, 8label)
     - **10thou(6l) :** (라벨 당 1만개 데이터, 6lebel-2)
