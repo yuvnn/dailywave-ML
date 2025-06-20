@@ -1,2 +1,9 @@
 # 가상환경
 /dailywave_venv
+
+.ipynb_checkpoints
+
+chromedriver
+
+**/weights/
+**/weight_complete/
